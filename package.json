@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/JustasTitovec/website-css-sass/issues"
   },
-  "homepage": "https://github.com/JustasTitovec/website-css-sass",
+  "homepage": "https://justastitovec.github.io/website-css-sass/",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "node-sass": "^5.0.0"
